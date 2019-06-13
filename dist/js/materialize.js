@@ -9724,6 +9724,8 @@ if (Vel) {
           if (dragged) {
             e.preventDefault();
             e.stopPropagation();
+          } else if (e.type === 'touchend') {
+            return true;
           }
           return false;
         }
