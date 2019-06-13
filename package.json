@@ -1,9 +1,9 @@
 {
-  "name": "materialize-css",
+  "name": "materialize-css-lux",
   "description": "Builds Materialize distribution packages",
   "author": "Alvin Wang, Alan Chang",
   "homepage": "http://materializecss.com/",
-  "version": "0.100.2",
+  "version": "0.1.0",
   "main": "dist/js/materialize.js",
   "style": "dist/css/materialize.css",
   "sass": "sass/materialize.scss",
